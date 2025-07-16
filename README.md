@@ -13,4 +13,5 @@ Trong project này, chúng ta sẽ áp dụng các phương pháp máy học cơ
 
 
 Trong project này chúng ta sẽ sử dụng các giải thuật máy học khác nhau để dự đoán xem bệnh nhân có khả năng bị bệnh tim hay không. Để hoàn thành được project này, người đọc phải nắm vững và biết cách sử dụng thư viện sklearn để hiện thực các giải thuật máy học thông dụng cho bài toán classification như: naive bayes, k nearest neigbors (KNN), decision tree, random forest, Adaboost, gradient boost, XGBoost và support vector machine (SVM). Cũng như hiểu rõ mô hình máy học tích hợp ensemple theo bagging, boosting và stack. Hình 2 thể hiện mô hình huấn luyện theo phương pháp stacking và độ chính xác của các giải thuật máy học trên tập dữ liệu Cleveland.
+![ ](stacking_approach.png)
 ![ ](result_accuracy.png)
